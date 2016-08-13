@@ -1,4 +1,12 @@
-﻿Cloud Scheduler in next generation data centers.
+Group Project
+  Size: 4
+  Members:
+    Sourabh
+    Akshay
+    Kovit 
+    Praveen
+
+Cloud Scheduler in next generation data centers.
 
 INSTALLATION GUIDE:
 tar -xzvf cloud-scheduler-<version>.tar.gz
