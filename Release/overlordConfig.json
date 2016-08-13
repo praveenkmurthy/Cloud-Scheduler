@@ -1,0 +1,18 @@
+{
+  "Username":"Enter here",
+  "Password":"Enter here",
+
+  "Policy-Plugin": "./Release/AgingPolicyPlugin.jar",
+  "Cloud-Info-Collector-Plugin": "./Release/OpenStackCloudInfoCollectorPlugin.jar",
+  "Policy-Main": "AgingPolicyPlugin",
+  "Cloud-Info-Collector-Main": "OpenStackCloudInfoCollectorPlugin",
+
+
+  "Max-Nodes":7,
+  "Poll-Interval": 5000,
+  "Port": 6000,
+  "Log": "./logs/",
+
+  "Slave-Prefix": "spark-slave"
+
+}
